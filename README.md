@@ -49,14 +49,6 @@ A personal portfolio showcasing my software projects, resume, and developer jour
 
 ---
 
-### 📈 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=jasonapierce&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonapierce&layout=compact&theme=tokyonight" />
-
----
-
 ### 🎯 Current Goal
 
 Become a job-ready software engineer by building real-world projects, mastering Python, improving problem-solving skills, and creating software that people actually use.

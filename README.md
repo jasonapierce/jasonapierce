@@ -1,22 +1,62 @@
 # Hi 👋, I'm Jason Pierce
 
-### A passionate python developer
+## Python Developer | AI Fitness App Builder | Software Engineering Student
 
-- 🔭 I'm currently working on **An AI fitness application**
+I’m a passionate developer focused on building practical, useful software with Python, web development, and AI. I’m currently working on an **AI fitness application** while improving my skills in **Python, LeetCode, full-stack development, and software engineering fundamentals**.
 
-- 🌱 I'm currently learning **Python and Leetcode**
+---
 
-- 👯 I'm looking to collaborate on **a fun, new project**
+### 🚀 About Me
 
-- 💬 Ask me about **Web Development**
+- 🔭 Currently building: **AI Fitness Application**
+- 🌱 Learning: **Python, LeetCode, Data Structures, and Algorithms**
+- 👯 Open to collaborating on: **fun, useful, real-world projects**
+- 💬 Ask me about: **Python, Web Development, and Fitness Tech**
+- ⚡ Fun fact: **I’m left handed**
 
-- ⚡ Fun fact **I'm left handed**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/jasonapierce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jasonapierce" height="30" width="40" /></a>
-</p>
+### 🔗 Connect with Me
 
-<h3>Languages and Tools:</h3>
-<p> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a></p>
+<a href="https://github.com/jasonapierce" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-jasonapierce-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
+---
+
+### 🛠️ Languages and Tools
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,express,django,flask,mysql,mongodb,pandas,aws,bash,c,java,ai,ps&perline=9" />
+
+---
+
+### 📌 Featured Projects
+
+#### 🏋️ AI Fitness Coach App
+A smart fitness application that helps users generate workouts, track progress, and receive AI-powered fitness guidance.
+
+**Tech:** Python, AI, APIs, UI Design
+
+#### 🎥 Content Creator Toolkit
+A software tool designed to help creators plan, organize, and generate content ideas for social media growth.
+
+**Tech:** Python, Automation, AI
+
+#### 🌐 Portfolio Website
+A personal portfolio showcasing my software projects, resume, and developer journey.
+
+**Tech:** HTML, CSS, JavaScript
+
+---
+
+### 📈 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=jasonapierce&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonapierce&layout=compact&theme=tokyonight" />
+
+---
+
+### 🎯 Current Goal
+
+Become a job-ready software engineer by building real-world projects, mastering Python, improving problem-solving skills, and creating software that people actually use.
